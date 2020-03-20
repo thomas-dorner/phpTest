@@ -9,7 +9,7 @@
         
         <?php
         
-            echo("Hello Jenkins");
+            echo("Hello Thomas");
         
         ?>
 
